@@ -18,6 +18,13 @@ The focus is on database design, integrity constraints, triggers, stored procedu
 - Complex joins and nested subqueries
 - Transaction control and constraint enforcement
 
+## Entity Relationship (ER) Diagram
+
+The following ER diagram illustrates the relational structure,
+entities, and relationships used in the database design.
+
+![ER Diagram](docs/ER_Diagram.png)
+
 ## How to Run
 ```sql
 CREATE DATABASE OnlineLearningPlatform;
