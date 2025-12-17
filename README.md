@@ -11,8 +11,16 @@ The focus is on database design, integrity constraints, triggers, stored procedu
 ## Files
 - `sql/Online_Learning_Platform.sql` – Complete database implementation
 
+## Advanced SQL Concepts Used
+- Stored procedures for enrollment and grading workflows
+- Triggers for enforcing business rules and data integrity
+- User-defined functions for performance metrics
+- Complex joins and nested subqueries
+- Transaction control and constraint enforcement
+
 ## How to Run
 ```sql
 CREATE DATABASE OnlineLearningPlatform;
 USE OnlineLearningPlatform;
 SOURCE sql/Online_Learning_Platform.sql;
+
