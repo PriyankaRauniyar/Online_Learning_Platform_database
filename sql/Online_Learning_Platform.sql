@@ -1,4 +1,11 @@
-#Online Learning platform 
+-- =====================================================
+-- Online Learning Platform Database
+-- Database: MySQL
+-- Description:
+-- Complete relational database implementation including
+-- schema, constraints, triggers, stored procedures,
+-- functions, and analytical queries.
+-- =====================================================
 
 create database if not exists OnlineLearningPlatform;  
 show databases;  
